@@ -1,1 +1,2 @@
-# git_new-
+# git_learn
+lets learn git and github
